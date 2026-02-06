@@ -1,11 +1,8 @@
 # 🐍 Day 1 – Python Foundation (Deep & Clear)
 
-> Goal: Python ko sirf use nahi, **samajhna**.  
-> Aisa samajhna ki koi bhi question puche — answer dimaag se nikle, Google se nahi.
-
 ---
 
-## 1️⃣ What is Python? (Not the Google Definition)
+## 1️⃣ What is Python? 
 
 ### English:
 Python is a **high-level, interpreted, dynamically typed language** that focuses on
@@ -137,7 +134,7 @@ Pro tip:
 
 Agar type clear hai, to 50% bugs khatam.
 
-## 6️⃣ Operations & Errors (Yahin se Logic Banta Hai)
+## 6️⃣ Operations & Errors 
 ✅ Valid operations
 ```
 10 + 5
@@ -164,7 +161,7 @@ Lesson:
 Error = signal
 Error ≠ failure
 
-## 7️⃣ Memory & Reference (DEEP but SIMPLE)
+## 7️⃣ Memory & Reference 
 ```
 a = 10
 b = a
@@ -216,4 +213,3 @@ Python dynamic typing kya hai
 
 "10" + 10 error kyun aata hai
 
-👉 Day 1 clear hai.
